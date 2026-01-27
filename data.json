@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "post_1769508643413",
+    "title": "test",
+    "content": "test 1",
+    "image": null,
+    "createdAt": "2026-01-27T10:10:43.413Z"
+  }
+]
