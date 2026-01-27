@@ -26,5 +26,12 @@
     "content": "MAMAD 1",
     "image": null,
     "createdAt": "2026-01-27T11:30:58.522Z"
+  },
+  {
+    "id": "post_1769513807472",
+    "title": "test gambar",
+    "content": "gambar",
+    "image": "https://i.redd.it/8w0shd3vkmic1.jpeg",
+    "createdAt": "2026-01-27T11:36:47.472Z"
   }
 ]
