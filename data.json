@@ -12,5 +12,12 @@
     "content": "dont know",
     "image": null,
     "createdAt": "2026-01-27T11:06:28.037Z"
+  },
+  {
+    "id": "post_1769512476596",
+    "title": "another test",
+    "content": "aa",
+    "image": null,
+    "createdAt": "2026-01-27T11:14:36.596Z"
   }
 ]
