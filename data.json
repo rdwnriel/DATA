@@ -5,5 +5,12 @@
     "content": "test 1",
     "image": null,
     "createdAt": "2026-01-27T10:25:29.237Z"
+  },
+  {
+    "id": "post_1769509558995",
+    "title": "TEST 2",
+    "content": "test 2",
+    "image": null,
+    "createdAt": "2026-01-27T10:25:58.995Z"
   }
 ]
