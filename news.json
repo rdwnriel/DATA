@@ -1,16 +1,23 @@
 [
-   {
+  {
     "id": "post_1769511887540",
     "title": "NEWS IS NOW LIVE",
     "content": "IT'S HAPPENING",
     "image": "https://media.tenor.com/LJqfcWkCu3kAAAAM/robert-downey-jr-rdj.gif",
     "createdAt": "2026-01-28T11:04:47.540Z"
   },
-   {
+  {
     "id": "1769511887541",
     "title": "TEST 2",
     "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit ullam eum non ad quibusdam! Sequi in perferendis, architecto dignissimos fugiat aspernatur, praesentium at ducimus et delectus voluptatem incidunt labore libero.",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1WBF1d872CkOzyz6pd6nttt_1eYy7dIAdkv73xja0b0PKJipr",
     "createdAt": "2026-01-28T03:43:23.540Z"
+  },
+  {
+    "id": "1769704270128",
+    "title": "I'M CRASHING OUTT!!",
+    "content": "THERE'S NO WAY. 70x pulls, but no Beryl. Even my pity was not her. It's not fucking her. I'M CRASHING OUT. I'm sad. I love Beryl. I hate gacha games. Hiks. I'm sad. I'm sorry",
+    "image": "https://ibb.co.com/DP3JXCdv",
+    "createdAt": "2026-01-29T16:31:10.128Z"
   }
 ]
