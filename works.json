@@ -1,13 +1,6 @@
 {
   "music": [
     {
-      "id": "rewind-2025",
-      "src": "https://www.youtube-nocookie.com/embed/NJU98xmziS4",
-      "title": "REWIND INDONESIA 2025",
-      "desc": "Music Remixer, Composer & Music Director for Sequence 2",
-      "stats": { "views": "1.6M", "likes": "95K", "comments": "15K" }
-    },
-    {
       "id": "summer-never-ends",
       "src": "https://www.youtube.com/embed/h3eM5Ou4KfQ",
       "title": "Summer Never Ends",
@@ -15,18 +8,37 @@
       "stats": null
     },
     {
+      "id": "rewind-2025",
+      "src": "https://www.youtube-nocookie.com/embed/NJU98xmziS4",
+      "title": "REWIND INDONESIA 2025",
+      "desc": "Music Remixer, Composer & Music Director for Sequence 2",
+      "stats": {
+        "views": "1.6M",
+        "likes": "95K",
+        "comments": "15K"
+      }
+    },
+    {
       "id": "rewind-2022-minecraft",
       "src": "https://www.youtube.com/embed/n6P_s3HMGOI?si=rZdQUnaHhuOiCEvi",
       "title": "REWIND INDONESIA 2022 - MINECRAFT ANIMATION",
       "desc": "I contributed as Music Remixer",
-      "stats": { "views": "2.2M", "likes": "85K", "comments": "7K" }
+      "stats": {
+        "views": "2.2M",
+        "likes": "85K",
+        "comments": "7K"
+      }
     },
     {
       "id": "mcanimid-serbu-remix",
       "src": "https://www.youtube.com/embed/9By58hO278M?si=PNMMitnO8dZ03T1s",
       "title": "MCANIMID - SERBU (REMIX)",
       "desc": "",
-      "stats": { "views": "5.6K", "likes": "286", "comments": "76" }
+      "stats": {
+        "views": "5.6K",
+        "likes": "286",
+        "comments": "76"
+      }
     },
     {
       "id": "learn-to-swim-remix",
@@ -85,7 +97,6 @@
       "stats": null
     }
   ],
-
   "spotify": {
     "profile": {
       "src": "https://open.spotify.com/embed/artist/0p6QgjuxJQnJdl0ujSwhyL",
@@ -99,7 +110,6 @@
       }
     ]
   },
-
   "soundcloud": {
     "profile": {
       "src": "https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/rdwnriel&color=%23ffffff&auto_play=false&visual=true",
@@ -107,6 +117,5 @@
     },
     "tracks": []
   },
-
   "art": []
 }
