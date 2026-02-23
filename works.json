@@ -117,5 +117,18 @@
     },
     "tracks": []
   },
-  "art": []
+  "art": [
+    {
+      "id": "1771810380771-13uw0",
+      "image": "https://raw.githubusercontent.com/rdwnriel/DATA/main/uploads/1771810345447-132456700_p0.png",
+      "title": "Shupogaki",
+      "links": [
+        {
+          "platform": "Pixiv",
+          "url": "https://www.pixiv.net/en/artworks/132456700",
+          "icon": "Pixiv"
+        }
+      ]
+    }
+  ]
 }
