@@ -8,6 +8,13 @@
       "stats": null
     },
     {
+      "id": "learn-to-swim-remix",
+      "src": "https://www.youtube.com/embed/fvDZQjpGf-8?si=cq3sxfnhnlAd850N",
+      "title": "LEARN TO SWIM (REMIX)",
+      "desc": "Original by Hoshimiya Toto, Doda, and Static",
+      "stats": null
+    },
+    {
       "id": "rewind-2025",
       "src": "https://www.youtube-nocookie.com/embed/NJU98xmziS4",
       "title": "REWIND INDONESIA 2025",
@@ -39,13 +46,6 @@
         "likes": "286",
         "comments": "76"
       }
-    },
-    {
-      "id": "learn-to-swim-remix",
-      "src": "https://www.youtube.com/embed/fvDZQjpGf-8?si=cq3sxfnhnlAd850N",
-      "title": "LEARN TO SWIM (REMIX)",
-      "desc": "Original by Hoshimiya Toto, Doda, and Static",
-      "stats": null
     },
     {
       "id": "thank-you",
