@@ -15,6 +15,13 @@
       "stats": null
     },
     {
+      "id": "thank-you",
+      "src": "https://www.youtube.com/embed/bZolIBqWzfg?si=Sr_O5svcZt0Nsk-F",
+      "title": "THANK YOU",
+      "desc": "Original track",
+      "stats": null
+    },
+    {
       "id": "rewind-2025",
       "src": "https://www.youtube-nocookie.com/embed/NJU98xmziS4",
       "title": "REWIND INDONESIA 2025",
@@ -46,13 +53,6 @@
         "likes": "286",
         "comments": "76"
       }
-    },
-    {
-      "id": "thank-you",
-      "src": "https://www.youtube.com/embed/bZolIBqWzfg?si=Sr_O5svcZt0Nsk-F",
-      "title": "THANK YOU",
-      "desc": "Original track",
-      "stats": null
     },
     {
       "id": "just-here-with-nothing",
