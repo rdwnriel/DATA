@@ -1,139 +1,112 @@
 {
-    music: [
-        {
-            id: 1,
-            src: "https://www.youtube-nocookie.com/embed/NJU98xmziS4",
-            title: "REWIND INDONESIA 2025",
-            desc: "Music Remixer, Composer & Music Director for Sequence 2",
-            stats: { views: "1.6M", likes: "95K", comments: "15K" },
-        },
-        {
-            id: 2,
-            src: "https://www.youtube.com/embed/h3eM5Ou4KfQ",
-            title: "Summer Never Ends",
-            desc: "First original song collaboration",
-        },
-        {
-            id: 3,
-            src: "https://www.youtube.com/embed/n6P_s3HMGOI?si=rZdQUnaHhuOiCEvi",
-            title: "REWIND INDONESIA 2022 - MINECRAFT ANIMATION",
-            desc: "I contributed as Music Remixer",
-            stats: { views: "2.2M", likes: "85K", comments: "7K" },
-        },
-        {
-            id: 4,
-            src: "https://www.youtube.com/embed/9By58hO278M?si=PNMMitnO8dZ03T1s",
-            title: "MCANIMID - SERBU (REMIX)",
-            stats: { views: "5.6K", likes: "286", comments: "76" },
-        },
-        {
-            id: 5,
-            src: "https://www.youtube.com/embed/fvDZQjpGf-8?si=cq3sxfnhnlAd850N",
-            title: "LEARN TO SWIM (REMIX)",
-            desc: "Original by Hoshimiya Toto, Doda, and Static",
-        },
-        {
-            id: 6,
-            src: "https://www.youtube.com/embed/bZolIBqWzfg?si=Sr_O5svcZt0Nsk-F",
-            title: "THANK YOU",
-            desc: "Original track",
-        },
-        {
-            id: 7,
-            src: "https://www.youtube.com/embed/--UJyxZv0qo?si=h-JtlFer2zLs9dxA",
-            title: "Just (Here with nothing)",
-            desc: "Original track",
-        },
-        {
-            id: 8,
-            src: "https://www.youtube.com/embed/luIh82nyBzY?si=puSoCA6ms_qhCYr5",
-            title: "Uncomfortable Feelings",
-            desc: "Original track",
-        },
-        {
-            id: 9,
-            src: "https://www.youtube.com/embed/90ErpLcixBA?si=ixKvNM1X1vRaVZ1l",
-            title: "Ive",
-            desc: "Original track",
-        },
-        {
-            id: 10,
-            src: "https://www.youtube.com/embed/knm4hm6VyHk?si=kkdQMFgyZQPtOAGj",
-            title: "Azarea - Never Fading Flower, Dance so Pretty",
-            desc: "Original track",
-        },
-        {
-            id: 10,
-            src: "https://www.youtube.com/embed/pQ2PI4qN0KI?si=Eanp-ZgqIYC-ccc-",
-            title: "SWEETDREAMS (REMIX)",
-            desc: "Original track",
-        },
-        {
-            id: 11,
-            src: "https://www.youtube.com/embed/-xVpHJvCirQ?si=2p39eEAyRQ_LWYA6",
-            title: "Bubble",
-            desc: "Original track",
-        },
-    ],
-    art: [
-        {
-            id: 1,
-            image: iori,
-            title: "IORI EXAMPLE",
-            // links: [
-            //     { platform: "Pixiv", url: "https://pixiv.net/...", icon: "Pixiv" },
-            //     { platform: "Twitter", url: "https://twitter.com/...", icon: "X" },
-            // ]
-        },
-    ],
-    externalEmbeds: {
-        spotify: {
-            // Profile / Artist embed (kept and made bigger)
-            profile: {
-                title: "Spotify — Artist Profile",
-                src: "https://open.spotify.com/embed/artist/0p6QgjuxJQnJdl0ujSwhyL",
-                height: 420, // medium-large
-            },
-            // Add tracks or playlist
-            tracks: [
-                {
-                    title: "Single 1",
-                    src: "https://open.spotify.com/embed/track/1YbfpjNaWZPmnnzBkt5IDq",
-                    height: 152,
-                },
-                // {
-                //     title: "Track / Single 2",
-                //     src: "https://open.spotify.com/embed/track/YOUR_TRACK_ID_2",
-                //     height: 152,
-                // },
-                // {
-                //     title: "Playlist – Favorites",
-                //     src: "https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID",
-                //     height: 380, 
-                // },
-                // add more as needed
-            ],
-        },
-        soundcloud: {
-            // Profile embed (kept and made bigger)
-            profile: {
-                title: "SoundCloud — suji_lament",
-                src: "https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/rdwnriel&color=%23ffffff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
-                height: 420, // medium-large visual mode
-            },
-            // Add individual tracks or playlists here
-            tracks: [
-                // {
-                //     title: "Single / Demo 1",
-                //     src: "https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/suji_lament/YOUR_TRACK_SLUG_1&color=%23ffffff&auto_play=false&visual=true",
-                //     height: 200,
-                // },
-                // {
-                //     title: "Mix / Compilation",
-                //     src: "https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/suji_lament/sets/YOUR_PLAYLIST_SLUG&color=%23ffffff&auto_play=false&visual=true",
-                //     height: 300,
-                // },
-            ],
-        },
+  "music": [
+    {
+      "id": "rewind-2025",
+      "src": "https://www.youtube-nocookie.com/embed/NJU98xmziS4",
+      "title": "REWIND INDONESIA 2025",
+      "desc": "Music Remixer, Composer & Music Director for Sequence 2",
+      "stats": { "views": "1.6M", "likes": "95K", "comments": "15K" }
     },
+    {
+      "id": "summer-never-ends",
+      "src": "https://www.youtube.com/embed/h3eM5Ou4KfQ",
+      "title": "Summer Never Ends",
+      "desc": "First original song collaboration",
+      "stats": null
+    },
+    {
+      "id": "rewind-2022-minecraft",
+      "src": "https://www.youtube.com/embed/n6P_s3HMGOI?si=rZdQUnaHhuOiCEvi",
+      "title": "REWIND INDONESIA 2022 - MINECRAFT ANIMATION",
+      "desc": "I contributed as Music Remixer",
+      "stats": { "views": "2.2M", "likes": "85K", "comments": "7K" }
+    },
+    {
+      "id": "mcanimid-serbu-remix",
+      "src": "https://www.youtube.com/embed/9By58hO278M?si=PNMMitnO8dZ03T1s",
+      "title": "MCANIMID - SERBU (REMIX)",
+      "desc": "",
+      "stats": { "views": "5.6K", "likes": "286", "comments": "76" }
+    },
+    {
+      "id": "learn-to-swim-remix",
+      "src": "https://www.youtube.com/embed/fvDZQjpGf-8?si=cq3sxfnhnlAd850N",
+      "title": "LEARN TO SWIM (REMIX)",
+      "desc": "Original by Hoshimiya Toto, Doda, and Static",
+      "stats": null
+    },
+    {
+      "id": "thank-you",
+      "src": "https://www.youtube.com/embed/bZolIBqWzfg?si=Sr_O5svcZt0Nsk-F",
+      "title": "THANK YOU",
+      "desc": "Original track",
+      "stats": null
+    },
+    {
+      "id": "just-here-with-nothing",
+      "src": "https://www.youtube.com/embed/--UJyxZv0qo?si=h-JtlFer2zLs9dxA",
+      "title": "Just (Here with nothing)",
+      "desc": "Original track",
+      "stats": null
+    },
+    {
+      "id": "uncomfortable-feelings",
+      "src": "https://www.youtube.com/embed/luIh82nyBzY?si=puSoCA6ms_qhCYr5",
+      "title": "Uncomfortable Feelings",
+      "desc": "Original track",
+      "stats": null
+    },
+    {
+      "id": "ive",
+      "src": "https://www.youtube.com/embed/90ErpLcixBA?si=ixKvNM1X1vRaVZ1l",
+      "title": "Ive",
+      "desc": "Original track",
+      "stats": null
+    },
+    {
+      "id": "azarea-never-fading",
+      "src": "https://www.youtube.com/embed/knm4hm6VyHk?si=kkdQMFgyZQPtOAGj",
+      "title": "Azarea - Never Fading Flower, Dance so Pretty",
+      "desc": "Original track",
+      "stats": null
+    },
+    {
+      "id": "sweetdreams-remix",
+      "src": "https://www.youtube.com/embed/pQ2PI4qN0KI?si=Eanp-ZgqIYC-ccc-",
+      "title": "SWEETDREAMS (REMIX)",
+      "desc": "Original track",
+      "stats": null
+    },
+    {
+      "id": "bubble",
+      "src": "https://www.youtube.com/embed/-xVpHJvCirQ?si=2p39eEAyRQ_LWYA6",
+      "title": "Bubble",
+      "desc": "Original track",
+      "stats": null
+    }
+  ],
+
+  "spotify": {
+    "profile": {
+      "src": "https://open.spotify.com/embed/artist/0p6QgjuxJQnJdl0ujSwhyL",
+      "height": 420
+    },
+    "tracks": [
+      {
+        "title": "Single 1",
+        "src": "https://open.spotify.com/embed/track/1YbfpjNaWZPmnnzBkt5IDq",
+        "height": 152
+      }
+    ]
+  },
+
+  "soundcloud": {
+    "profile": {
+      "src": "https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/rdwnriel&color=%23ffffff&auto_play=false&visual=true",
+      "height": 420
+    },
+    "tracks": []
+  },
+
+  "art": []
 }
