@@ -1,0 +1,6 @@
+{
+  "music": [ { "id": "...", "src": "...", "title": "...", "desc": "", "stats": null } ],
+  "spotify": { "profile": { "src": "...", "height": 420 }, "tracks": [] },
+  "soundcloud": { "profile": { "src": "...", "height": 420 }, "tracks": [] },
+  "art": [ { "id": "...", "image": "...", "title": "...", "links": [] } ]
+}
