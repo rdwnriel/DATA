@@ -1,4 +1,4 @@
-const worksData = {
+{
     music: [
         {
             id: 1,
