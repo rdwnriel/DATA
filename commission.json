@@ -15,23 +15,18 @@
     {
       "id": 1,
       "title": "Full Original Song Production",
-      "price": "From $800",
+      "price": "From $120",
       "category": "Production Services",
       "shortDesc": "Completely custom original song from scratch in your desired style/genre.",
       "gallery": [
-        "M64PhpF5OjI",
-        "X3ul8qcw7-k",
-        "8QpG8WoNm80",
-        "c3Za3zFqPLU",
-        "eKqlvy4IDsI",
-        "UK8kJJlJ87w"
+        "h3eM5Ou4KfQ",
+        "fvDZQjpGf-8"
       ],
       "includes": [
         "~2–4 minute long original song in your requested style/genre",
         "2–3 month standard turnaround",
         "WAV + MP3 (and any other format you need)",
-        "Up to 2 revision rounds included",
-        "Basic lyric video version (optional)"
+        "Up to 2 revision rounds included"
       ],
       "addons": [
         "Extra length: +$120 per additional 30 seconds past 4 min",
@@ -40,8 +35,8 @@
         "Vocal stems + instrumental version: +$80"
       ],
       "rush": {
-        "label": "If due in under two months",
-        "fee": "+100% of final price"
+        "label": "",
+        "fee": ""
       }
     },
     {
