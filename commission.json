@@ -1,39 +1,143 @@
 {
-  "status": "OPEN",
-  "currentSlots": 1,
-  "totalSlots": 3,
-  "tosLink": "https://drive.google.com/...",
-  "paymentMethods": [
-    "paypal",
-    "ko-fi"
-  ],
-  "commissions": [
+  "status": "open",
+  "slots": {
+    "current": 1,
+    "total": 3
+  },
+  "description": "Hey, I'm a musician and composer. I create music for various media, including games, films, commercials, VTubers, and more. If you're interested in commissioning a piece or have any questions, feel free to reach out to me.",
+  "payments": ["paypal", "ko-fi", "wise", "revolut"],
+  "packages": [
     {
-      "id": "full-song",
+      "id": 1,
       "title": "Full Original Song Production",
-      "price": "$800–$1400",
-      "description": "Completely custom song from scratch in your desired genre...",
+      "price": "From $800",
+      "category": "Production Services",
+      "shortDesc": "Completely custom original song from scratch in your desired style/genre.",
+      "gallery": ["M64PhpF5OjI", "X3ul8qcw7-k", "8QpG8WoNm80", "c3Za3zFqPLU", "eKqlvy4IDsI", "UK8kJJlJ87w"],
       "includes": [
-        "~2-4 min original song",
-        "2 revisions included",
-        "WAV + MP3 stems",
-        "Lyric video version (optional)"
+        "~2–4 minute long original song in your requested style/genre",
+        "2–3 month standard turnaround",
+        "WAV + MP3 (and any other format you need)",
+        "Up to 2 revision rounds included",
+        "Basic lyric video version (optional)"
       ],
       "addons": [
-        {
-          "name": "Extra minute",
-          "price": "+$150"
-        },
-        {
-          "name": "Rush (under 6 weeks)",
-          "price": "+80–120%"
-        }
+        "Extra length: +$120 per additional 30 seconds past 4 min",
+        "Commercial/streaming upload rights: contact to discuss (see ToS §5)",
+        "Extra revision round: +$40 each",
+        "Vocal stems + instrumental version: +$80"
       ],
-      "rushFee": "×1.8–2.2 depending on deadline",
-      "images": [
-        "https://img.youtube.com/vi/abc123/maxresdefault.jpg",
-        "..."
-      ]
+      "rush": {
+        "label": "If due in under two months",
+        "fee": "+100% of final price"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Vocal Mix & Master",
+      "price": "From $90",
+      "category": "Mixing & Mastering",
+      "shortDesc": "Professional cleaning, tuning, mixing and mastering of your vocal recordings.",
+      "gallery": ["air89qSq8Ps", "IhQOavMMuZQ", "LQOMLiP1Jl8", "z31cfXPgYjQ", "ilMkSHaCQWY", "KpQrJAZNHa0"],
+      "includes": [
+        "Noise removal, de-essing, tuning & timing correction",
+        "Balanced mix with your provided instrumental",
+        "1–2 week standard turnaround",
+        "Final WAV + MP3 deliverables"
+      ],
+      "addons": [
+        "Additional vocal layers / harmonies: +$25 per track",
+        "Stems export: +$35",
+        "Extra revision round: +$30"
+      ],
+      "rush": {
+        "label": "If due in under 1 week",
+        "fee": "+60% of final price"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Loopable BGM / Background Music",
+      "price": "From $140",
+      "category": "Production Services",
+      "shortDesc": "Seamless, loopable ambient or thematic background music for streams, games or videos.",
+      "gallery": ["xSsWP2DPSQU", "3Mj9FF_piGQ", "UK8kJJlJ87w", "eKqlvy4IDsI", "c3Za3zFqPLU"],
+      "includes": [
+        "1–4 minute loop-ready track",
+        "Seamless loop point",
+        "1–3 week turnaround",
+        "WAV + MP3 + loop version"
+      ],
+      "addons": [
+        "Alternative variation / mood version: +$50 each",
+        "Stems + layered version: +$40",
+        "Longer loop (5+ min): +$70"
+      ],
+      "rush": {
+        "label": "If due in under 10 days",
+        "fee": "+70% of final price"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Stream Alert SFX Pack",
+      "price": "From $70",
+      "category": "Sound Design",
+      "shortDesc": "Custom sound effects designed for follow, sub, raid, dono and other stream alerts.",
+      "gallery": ["TKn3C7-c9v0", "NmhvVqFOFq8", "b0ZIREjrEeg", "aonbfrUWs_A", "76Zyg7MX60c"],
+      "includes": [
+        "4–8 custom-designed SFX",
+        "Matched to your channel vibe / branding",
+        "5–10 day turnaround",
+        "High-quality WAV files"
+      ],
+      "addons": [
+        "Extra sound effect: +$12 each",
+        "10+ SFX mega pack: +$60 (discount applied)",
+        "Animated visual version (After Effects): +$90"
+      ],
+      "rush": {
+        "label": "If due in under 4 days",
+        "fee": "+80% of final price"
+      }
+    }
+  ],
+  "tos": "1. PAYMENT\nA 50% non-refundable deposit is required to start work. The remaining 50% is due upon completion and before final files are delivered.\n\n2. REVISIONS\nPackages include the stated number of revisions. Additional revisions are charged at $25–40 per round depending on complexity.\n\n3. COMMERCIAL / STREAMING RIGHTS\nPersonal use is included. Monetized content, YouTube, Spotify, etc. requires an additional license fee — please discuss before ordering.\n\n4. PORTFOLIO RIGHTS\nI retain the right to use the work in my portfolio / social media / showreel unless you explicitly request otherwise (extra fee may apply).\n\n5. COMMUNICATION & INACTIVITY\nPlease stay responsive. Projects inactive for more than 30 days without communication may be cancelled without refund of deposit.\n\n6. CANCELLATION\nIf you cancel after work has started, the deposit is non-refundable. Mid-project cancellation may require payment for work completed.\n\n7. DELIVERY FORMAT\nStandard delivery is WAV (48 kHz / 24-bit) + MP3. Other formats available on request.",
+  "featured": [
+    {
+      "title": "SAVE MY LIFE (Original Song)",
+      "tag": "Full Original Song Production",
+      "ytId": "M64PhpF5OjI"
+    },
+    {
+      "title": "Aimee — Jet Black (Cover)",
+      "tag": "Vocal Mix & Master",
+      "ytId": "air89qSq8Ps"
+    },
+    {
+      "title": "Bao The Whale (Business Bao Lore)",
+      "tag": "Lore Audio + SFX",
+      "ytId": "fzWduEvJyfA"
+    },
+    {
+      "title": "NATURAL INTELLIGENCE (Original)",
+      "tag": "Full Original Song Production",
+      "ytId": "X3ul8qcw7-k"
+    },
+    {
+      "title": "Clovalee — Bouquet For Me (Cover)",
+      "tag": "Vocal Mix & Master",
+      "ytId": "LQOMLiP1Jl8"
+    },
+    {
+      "title": "Ojousama (Bao the Whale)",
+      "tag": "Full Original Song Production",
+      "ytId": "8QpG8WoNm80"
+    },
+    {
+      "title": "Kaioura — Stream Alerts",
+      "tag": "Stream Alert SFX",
+      "ytId": "TKn3C7-c9v0"
     }
   ]
 }
