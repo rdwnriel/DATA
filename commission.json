@@ -1,0 +1,29 @@
+{
+  "slots": { "filled": 1, "total": 3 },
+  "bundles": [
+    {
+      "title": "Basic Art Pack",
+      "description": "Simple art commission with 1 character.",
+      "features": ["1 character", "Colored", "PNG + JPG"],
+      "price": "IDR 200K"
+    },
+    {
+      "title": "Pro Art Pack",
+      "description": "Detailed art with background.",
+      "features": ["1 character", "Background", "High resolution"],
+      "price": "IDR 500K"
+    }
+  ],
+  "pricing": [
+    {
+      "name": "Addon Extra Character",
+      "desc": "Add another character to your order",
+      "price": "IDR 150K"
+    },
+    {
+      "name": "Background Detail",
+      "desc": "Add a detailed background",
+      "price": "IDR 200K"
+    }
+  ]
+}
