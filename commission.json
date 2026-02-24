@@ -3,7 +3,10 @@
   "currentSlots": 1,
   "totalSlots": 3,
   "tosLink": "https://drive.google.com/...",
-  "paymentMethods": ["paypal", "ko-fi"],
+  "paymentMethods": [
+    "paypal",
+    "ko-fi"
+  ],
   "commissions": [
     {
       "id": "full-song",
@@ -17,14 +20,20 @@
         "Lyric video version (optional)"
       ],
       "addons": [
-        { "name": "Extra minute", "price": "+$150" },
-        { "name": "Rush (under 6 weeks)", "price": "+80–120%" }
+        {
+          "name": "Extra minute",
+          "price": "+$150"
+        },
+        {
+          "name": "Rush (under 6 weeks)",
+          "price": "+80–120%"
+        }
       ],
       "rushFee": "×1.8–2.2 depending on deadline",
       "images": [
         "https://img.youtube.com/vi/abc123/maxresdefault.jpg",
         "..."
-      ],
+      ]
     }
-  ],
+  ]
 }
