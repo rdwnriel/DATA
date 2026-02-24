@@ -45,6 +45,35 @@
       }
     },
     {
+      "id": 3,
+      "title": "Loopable BGM / Background Music",
+      "price": "From $140",
+      "category": "Production Services",
+      "shortDesc": "Seamless, loopable ambient or thematic background music for streams, games or videos.",
+      "gallery": [
+        "xSsWP2DPSQU",
+        "3Mj9FF_piGQ",
+        "UK8kJJlJ87w",
+        "eKqlvy4IDsI",
+        "c3Za3zFqPLU"
+      ],
+      "includes": [
+        "1–4 minute loop-ready track",
+        "Seamless loop point",
+        "1–3 week turnaround",
+        "WAV + MP3 + loop version"
+      ],
+      "addons": [
+        "Alternative variation / mood version: +$50 each",
+        "Stems + layered version: +$40",
+        "Longer loop (5+ min): +$70"
+      ],
+      "rush": {
+        "label": "If due in under 10 days",
+        "fee": "+70% of final price"
+      }
+    },
+    {
       "id": 2,
       "title": "Vocal Mix & Master",
       "price": "From $90",
@@ -72,35 +101,6 @@
       "rush": {
         "label": "If due in under 1 week",
         "fee": "+60% of final price"
-      }
-    },
-    {
-      "id": 3,
-      "title": "Loopable BGM / Background Music",
-      "price": "From $140",
-      "category": "Production Services",
-      "shortDesc": "Seamless, loopable ambient or thematic background music for streams, games or videos.",
-      "gallery": [
-        "xSsWP2DPSQU",
-        "3Mj9FF_piGQ",
-        "UK8kJJlJ87w",
-        "eKqlvy4IDsI",
-        "c3Za3zFqPLU"
-      ],
-      "includes": [
-        "1–4 minute loop-ready track",
-        "Seamless loop point",
-        "1–3 week turnaround",
-        "WAV + MP3 + loop version"
-      ],
-      "addons": [
-        "Alternative variation / mood version: +$50 each",
-        "Stems + layered version: +$40",
-        "Longer loop (5+ min): +$70"
-      ],
-      "rush": {
-        "label": "If due in under 10 days",
-        "fee": "+70% of final price"
       }
     },
     {
