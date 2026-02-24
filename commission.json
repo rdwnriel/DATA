@@ -1,11 +1,16 @@
 {
-  "status": "close",
+  "status": "open",
   "slots": {
-    "current": 1,
+    "current": 0,
     "total": 3
   },
   "description": "Hey, I'm a musician and composer. I create music for various media, including games, films, commercials, VTubers, and more. If you're interested in commissioning a piece or have any questions, feel free to reach out to me.",
-  "payments": ["paypal", "ko-fi", "wise", "revolut"],
+  "payments": [
+    "paypal",
+    "ko-fi",
+    "wise",
+    "revolut"
+  ],
   "packages": [
     {
       "id": 1,
@@ -13,7 +18,14 @@
       "price": "From $800",
       "category": "Production Services",
       "shortDesc": "Completely custom original song from scratch in your desired style/genre.",
-      "gallery": ["M64PhpF5OjI", "X3ul8qcw7-k", "8QpG8WoNm80", "c3Za3zFqPLU", "eKqlvy4IDsI", "UK8kJJlJ87w"],
+      "gallery": [
+        "M64PhpF5OjI",
+        "X3ul8qcw7-k",
+        "8QpG8WoNm80",
+        "c3Za3zFqPLU",
+        "eKqlvy4IDsI",
+        "UK8kJJlJ87w"
+      ],
       "includes": [
         "~2–4 minute long original song in your requested style/genre",
         "2–3 month standard turnaround",
@@ -38,7 +50,14 @@
       "price": "From $90",
       "category": "Mixing & Mastering",
       "shortDesc": "Professional cleaning, tuning, mixing and mastering of your vocal recordings.",
-      "gallery": ["air89qSq8Ps", "IhQOavMMuZQ", "LQOMLiP1Jl8", "z31cfXPgYjQ", "ilMkSHaCQWY", "KpQrJAZNHa0"],
+      "gallery": [
+        "air89qSq8Ps",
+        "IhQOavMMuZQ",
+        "LQOMLiP1Jl8",
+        "z31cfXPgYjQ",
+        "ilMkSHaCQWY",
+        "KpQrJAZNHa0"
+      ],
       "includes": [
         "Noise removal, de-essing, tuning & timing correction",
         "Balanced mix with your provided instrumental",
@@ -61,7 +80,13 @@
       "price": "From $140",
       "category": "Production Services",
       "shortDesc": "Seamless, loopable ambient or thematic background music for streams, games or videos.",
-      "gallery": ["xSsWP2DPSQU", "3Mj9FF_piGQ", "UK8kJJlJ87w", "eKqlvy4IDsI", "c3Za3zFqPLU"],
+      "gallery": [
+        "xSsWP2DPSQU",
+        "3Mj9FF_piGQ",
+        "UK8kJJlJ87w",
+        "eKqlvy4IDsI",
+        "c3Za3zFqPLU"
+      ],
       "includes": [
         "1–4 minute loop-ready track",
         "Seamless loop point",
@@ -84,7 +109,13 @@
       "price": "From $70",
       "category": "Sound Design",
       "shortDesc": "Custom sound effects designed for follow, sub, raid, dono and other stream alerts.",
-      "gallery": ["TKn3C7-c9v0", "NmhvVqFOFq8", "b0ZIREjrEeg", "aonbfrUWs_A", "76Zyg7MX60c"],
+      "gallery": [
+        "TKn3C7-c9v0",
+        "NmhvVqFOFq8",
+        "b0ZIREjrEeg",
+        "aonbfrUWs_A",
+        "76Zyg7MX60c"
+      ],
       "includes": [
         "4–8 custom-designed SFX",
         "Matched to your channel vibe / branding",
