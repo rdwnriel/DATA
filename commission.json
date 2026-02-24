@@ -74,35 +74,6 @@
       }
     },
     {
-      "id": 4,
-      "title": "Stream Alert SFX Pack",
-      "price": "From $70",
-      "category": "Sound Design",
-      "shortDesc": "Custom sound effects designed for follow, sub, raid, dono and other stream alerts.",
-      "gallery": [
-        "TKn3C7-c9v0",
-        "NmhvVqFOFq8",
-        "b0ZIREjrEeg",
-        "aonbfrUWs_A",
-        "76Zyg7MX60c"
-      ],
-      "includes": [
-        "4–8 custom-designed SFX",
-        "Matched to your channel vibe / branding",
-        "5–10 day turnaround",
-        "High-quality WAV files"
-      ],
-      "addons": [
-        "Extra sound effect: +$12 each",
-        "10+ SFX mega pack: +$60 (discount applied)",
-        "Animated visual version (After Effects): +$90"
-      ],
-      "rush": {
-        "label": "If due in under 4 days",
-        "fee": "+80% of final price"
-      }
-    },
-    {
       "id": 2,
       "title": "Vocal Mix & Master",
       "price": "From $90",
@@ -130,6 +101,35 @@
       "rush": {
         "label": "If due in under 1 week",
         "fee": "+60% of final price"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Stream Alert SFX Pack",
+      "price": "From $70",
+      "category": "Sound Design",
+      "shortDesc": "Custom sound effects designed for follow, sub, raid, dono and other stream alerts.",
+      "gallery": [
+        "TKn3C7-c9v0",
+        "NmhvVqFOFq8",
+        "b0ZIREjrEeg",
+        "aonbfrUWs_A",
+        "76Zyg7MX60c"
+      ],
+      "includes": [
+        "4–8 custom-designed SFX",
+        "Matched to your channel vibe / branding",
+        "5–10 day turnaround",
+        "High-quality WAV files"
+      ],
+      "addons": [
+        "Extra sound effect: +$12 each",
+        "10+ SFX mega pack: +$60 (discount applied)",
+        "Animated visual version (After Effects): +$90"
+      ],
+      "rush": {
+        "label": "If due in under 4 days",
+        "fee": "+80% of final price"
       }
     }
   ],
