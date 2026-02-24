@@ -1,29 +1,31 @@
 {
-  "slots": { "filled": 1, "total": 3 },
-  "bundles": [
+  "status": "OPEN",
+  "currentSlots": 1,
+  "totalSlots": 3,
+  "tosLink": "https://drive.google.com/...",
+  "paymentMethods": ["paypal", "ko-fi"],
+  "commissions": [
     {
-      "title": "Basic Art Pack",
-      "description": "Simple art commission with 1 character.",
-      "features": ["1 character", "Colored", "PNG + JPG"],
-      "price": "IDR 200K"
-    },
-    {
-      "title": "Pro Art Pack",
-      "description": "Detailed art with background.",
-      "features": ["1 character", "Background", "High resolution"],
-      "price": "IDR 500K"
+      "id": "full-song",
+      "title": "Full Original Song Production",
+      "price": "$800–$1400",
+      "description": "Completely custom song from scratch in your desired genre...",
+      "includes": [
+        "~2-4 min original song",
+        "2 revisions included",
+        "WAV + MP3 stems",
+        "Lyric video version (optional)"
+      ],
+      "addons": [
+        { "name": "Extra minute", "price": "+$150" },
+        { "name": "Rush (under 6 weeks)", "price": "+80–120%" }
+      ],
+      "rushFee": "×1.8–2.2 depending on deadline",
+      "images": [
+        "https://img.youtube.com/vi/abc123/maxresdefault.jpg",
+        "..."
+      ]
     }
-  ],
-  "pricing": [
-    {
-      "name": "Addon Extra Character",
-      "desc": "Add another character to your order",
-      "price": "IDR 150K"
-    },
-    {
-      "name": "Background Detail",
-      "desc": "Add a detailed background",
-      "price": "IDR 200K"
-    }
+    // more items...
   ]
 }
