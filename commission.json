@@ -45,36 +45,6 @@
       }
     },
     {
-      "id": 2,
-      "title": "Vocal Mix & Master",
-      "price": "From $90",
-      "category": "Mixing & Mastering",
-      "shortDesc": "Professional cleaning, tuning, mixing and mastering of your vocal recordings.",
-      "gallery": [
-        "air89qSq8Ps",
-        "IhQOavMMuZQ",
-        "LQOMLiP1Jl8",
-        "z31cfXPgYjQ",
-        "ilMkSHaCQWY",
-        "KpQrJAZNHa0"
-      ],
-      "includes": [
-        "Noise removal, de-essing, tuning & timing correction",
-        "Balanced mix with your provided instrumental",
-        "1–2 week standard turnaround",
-        "Final WAV + MP3 deliverables"
-      ],
-      "addons": [
-        "Additional vocal layers / harmonies: +$25 per track",
-        "Stems export: +$35",
-        "Extra revision round: +$30"
-      ],
-      "rush": {
-        "label": "If due in under 1 week",
-        "fee": "+60% of final price"
-      }
-    },
-    {
       "id": 3,
       "title": "Loopable BGM / Background Music",
       "price": "From $140",
@@ -130,6 +100,36 @@
       "rush": {
         "label": "If due in under 4 days",
         "fee": "+80% of final price"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Vocal Mix & Master",
+      "price": "From $90",
+      "category": "Mixing & Mastering",
+      "shortDesc": "Professional cleaning, tuning, mixing and mastering of your vocal recordings.",
+      "gallery": [
+        "air89qSq8Ps",
+        "IhQOavMMuZQ",
+        "LQOMLiP1Jl8",
+        "z31cfXPgYjQ",
+        "ilMkSHaCQWY",
+        "KpQrJAZNHa0"
+      ],
+      "includes": [
+        "Noise removal, de-essing, tuning & timing correction",
+        "Balanced mix with your provided instrumental",
+        "1–2 week standard turnaround",
+        "Final WAV + MP3 deliverables"
+      ],
+      "addons": [
+        "Additional vocal layers / harmonies: +$25 per track",
+        "Stems export: +$35",
+        "Extra revision round: +$30"
+      ],
+      "rush": {
+        "label": "If due in under 1 week",
+        "fee": "+60% of final price"
       }
     }
   ],
