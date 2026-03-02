@@ -100,7 +100,31 @@
   "tos": [
     {
       "title": "PAYMENT",
-      "content": "Test 2"
+      "content": "A 50% non-refundable deposit is required to start work. The remaining 50% is due upon completion and before final files are delivered."
+    },
+    {
+      "title": "REVISIONS",
+      "content": "Packages include the stated number of revisions. Additional revisions are charged at $25–40 per round depending on complexity."
+    },
+    {
+      "title": "COMMERCIAL / STREAMING RIGHTS",
+      "content": "Personal use is included. Monetized content, YouTube, Spotify, etc. requires an additional license fee — please discuss before ordering."
+    },
+    {
+      "title": "PORTFOLIO RIGHTS",
+      "content": "I retain the right to use the work in my portfolio / social media / showreel unless you explicitly request otherwise (extra fee may apply)."
+    },
+    {
+      "title": "COMMUNICATION & INACTIVITY",
+      "content": "Please stay responsive. Projects inactive for more than 30 days without communication may be cancelled without refund of deposit."
+    },
+    {
+      "title": "CANCELLATION",
+      "content": "If you cancel after work has started, the deposit is non-refundable. Mid-project cancellation may require payment for work completed."
+    },
+    {
+      "title": "DELIVERY FORMAT",
+      "content": "Standard delivery is WAV (48 kHz / 24-bit) + MP3. Other formats available on request."
     }
   ],
   "featured": [
