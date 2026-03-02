@@ -97,7 +97,12 @@
       }
     }
   ],
-  "tos": "1. PAYMENT\nTest ",
+  "tos": [
+    {
+      "title": "PAYMENT",
+      "content": "Test 2"
+    }
+  ],
   "featured": [
     {
       "title": "Summer Never Ends",
