@@ -38,6 +38,12 @@
       "rush": {
         "label": "",
         "fee": ""
+      },
+      "discount": {
+        "label": "First Commission",
+        "amount": 20,
+        "type": "percent",
+        "active": true
       }
     },
     {
