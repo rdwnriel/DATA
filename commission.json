@@ -99,24 +99,36 @@
   ],
   "tos": [
     {
+      "title": "IMPORTANT",
+      "content": "- By submitting a request for the services and/or remitting payment, you agree to be legally bound by all the terms and conditions outlined in this Agreement (the \"Agreement\").\n- I have the right to decline the commission if I feel that I do not meet the requirements of your request."
+    },
+    {
       "title": "PAYMENT",
-      "content": "A 50% non-refundable deposit is required to begin work. The remaining 50% must be paid upon completion and before final files are delivered. No final files will be sent before full payment is received."
+      "content": "A non-refundable deposit of 50% is required to begin work. The remaining 50% must be paid upon completion, before the final files are delivered. Final files will not be sent before full payment is received."
     },
     {
       "title": "REVISIONS",
-      "content": "Each package includes the stated number of revisions. Major changes (e.g., genre shift, structure overhaul, new concept) will be treated as a new order. Additional revision rounds are charged at $40."
+      "content": "Each package includes the stated number of revisions. Any major changes (e.g. a genre shift, a structural overhaul or a new concept) will be treated as a new order. Additional revision rounds are charged at $40 each."
     },
     {
       "title": "DEADLINE & DELIVERY",
-      "content": "-\tTurnaround time within 4-5 weeks of initial start date, unless stated otherwise.\n-\tWork-in-progress version of tracks will be given at a lower audio quality than final delivery.\n-\tClient will receive both a 320Kbps .mp3 and lossless .wav file of the final song."
+      "content": "- The turnaround time is 4–5 weeks from the initial start date, unless stated otherwise.\n- Projects with specific deadlines will be prioritised, but may be subject to a rush fee.\n- Work-in-progress version of tracks will be given at a lower audio quality than the final delivery.\n- Standard delivery includes WAV (48 kHz/24-bit) and MP3 files. Stems, MIDI files and project files are not included as standard and must be purchased separately."
     },
     {
       "title": "COPYRIGHT & USAGE RIGHTS",
-      "content": ""
+      "content": "- I retain all rights to the composition and final version of the song. I may include the song in a discography, showreel or portfolio.\n- The Client is granted a perpetual license to use the work according to the purchased tier.\n- The finished results do not include commercial permits. If you want to commercialise them, there will be an additional cost of 100% of the initial cost or more. This includes selling your songs as digital products, such as distributing them to Spotify or other related platforms, via physical CDs/vinyl, and all other sales related to the results."
     },
     {
       "title": "COMMUNICATION & INACTIVITY",
-      "content": "Clients are expected to remain reasonably responsive. Projects inactive for more than 30 days without communication may be cancelled without refund of deposit."
+      "content": "- You can contact me via Discord (@hikorii6) or by email (riruerii+contact@proton.me). I recommend contacting me on Discord for faster communication.\n- Feel free to contact me at any time if you would like an update on your commission.\n- Clients are expected to respond promptly. If a project has been inactive for more than 30 days with no communication, it may be cancelled and the deposit will not be refunded."
+    },
+    {
+      "title": "CREDIT & ATTRIBUTION",
+      "content": "- As with any other collaborators, the clients must credit me as 'riruerii' on whichever platform they choose to release or use the work. Please include a link to my Twitter and website.\nIf you decide to share it on social media, please tag me, @rdwnriel, alongside the credits for your other collaborators.\n- Co-primary artist credit is not included by default and may be negotiated separately under a collaboration agreement."
+    },
+    {
+      "title": "CANCELATION & REFUND",
+      "content": "- If the necessary creative materials are not received within twenty-four hours of the client submitting the form or agreeing to the terms, the composer reserves the right to cancel the request and keep any non-refundable deposit (if applicable).\n- If I am unable to deliver the product for any reason, whether due to difficulty or major personal circumstances, you will receive a full refund. You will be informed in advance if this becomes a possibility.\n- If the client cancels after work has commenced, the deposit will remain non-refundable. \n- If the client cancels mid-project, they may be required to pay additional fees depending on how much work has been completed."
     }
   ],
   "featured": [
