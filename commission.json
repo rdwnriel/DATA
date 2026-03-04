@@ -174,10 +174,4 @@
       "ytId": "luIh82nyBzY"
     }
   ],
-  "discount": {
-    "label": "First Commission",
-    "amount": 20,
-    "type": "percent",
-    "active": true
-  }
 }
