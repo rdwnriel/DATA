@@ -15,7 +15,7 @@
     {
       "id": 1,
       "title": "Full Original Song Production",
-      "price": "From $300",
+      "price": "$300",
       "category": "Production Services",
       "shortDesc": "Completely custom original song from scratch in your desired style/genre.",
       "gallery": [
@@ -40,8 +40,8 @@
         "fee": ""
       },
       "discount": {
-        "label": "First Commission",
-        "amount": 20,
+        "label": "Limited Offer",
+        "amount": 30,
         "type": "percent",
         "active": true
       }
