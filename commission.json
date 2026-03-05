@@ -49,7 +49,7 @@
     {
       "id": 3,
       "title": "Loopable BGM / Background Music",
-      "price": "From $140",
+      "price": "$140",
       "category": "Production Services",
       "shortDesc": "Seamless, loopable ambient or thematic background music for streams, games or videos.",
       "gallery": [
@@ -70,6 +70,12 @@
       "rush": {
         "label": "If due in under 10 days",
         "fee": "+70% of final price"
+      },
+      "discount": {
+        "label": "",
+        "amount": 0,
+        "type": "percent",
+        "active": false
       }
     },
     {
