@@ -44,7 +44,10 @@
         "amount": 30,
         "type": "percent",
         "active": true
-      }
+      },
+      "details": [
+        "Test details"
+      ]
     },
     {
       "id": 2,
