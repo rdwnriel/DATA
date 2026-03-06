@@ -111,7 +111,11 @@
         "Commercial Use (Spotify, etc): +100% of initial cost.",
         "Additional Vocalists: Price determined by number of vocal tracks!",
         "Any revisions beyond the free limit will cost an additional $30 each."
-      ]
+      ],
+      "slots": {
+        "current": 0,
+        "total": 2
+      }
     },
     {
       "id": 3,
