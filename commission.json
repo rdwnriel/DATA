@@ -113,7 +113,7 @@
         "Any revisions beyond the free limit will cost an additional $30 each."
       ],
       "slots": {
-        "current": 0,
+        "current": 3,
         "total": 3
       }
     },
