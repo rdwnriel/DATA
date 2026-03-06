@@ -58,7 +58,11 @@
         "Any revisions beyond the free limit will cost an additional $40 each.",
         "The finished results do not include commercial permits. If you want to commercialise them, there will be an additional cost of 100% of the initial cost",
         "Additional Monetized Content Rights (YouTube/Twitch/TikTok, etc.) will cost +50% of base price."
-      ]
+      ],
+      "slots": {
+        "current": 0,
+        "total": 1
+      }
     },
     {
       "id": 2,
