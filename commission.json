@@ -158,7 +158,11 @@
       "pricing": [
         "This package does not include a commercial license. If you want to upload it to Spotify, Apple Music, etc., the cost will be 100% of the base price.",
         "Anything longer than two minutes will incur an additional charge of 50% of the base price per minute."
-      ]
+      ],
+      "slots": {
+        "current": 0,
+        "total": 4
+      }
     }
   ],
   "tos": [
