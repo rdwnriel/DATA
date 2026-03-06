@@ -108,8 +108,8 @@
     },
     {
       "id": 3,
-      "title": "Loopable BGM / Background Music",
-      "price": "$140",
+      "title": "Original BGM",
+      "price": "$150",
       "category": "Production Services",
       "shortDesc": "Seamless, loopable ambient or thematic background music for streams, games or videos.",
       "gallery": [
@@ -117,26 +117,34 @@
         "Tdve_TdcKPQ"
       ],
       "includes": [
-        "1–4 minute loop-ready track",
+        "Custom looping background music, between 1-2 minutes long",
         "Seamless loop point",
         "1–3 week turnaround",
-        "WAV + MP3 + loop version"
+        "Monetized Content Rights (YouTube/Twitch/Tiktok)",
+        "3 Rounds of Revision Included",
+        "Final WAV + MP3 deliverables"
       ],
       "addons": [
-        "Alternative variation / mood version: +$50 each",
-        "Stems + layered version: +$40",
-        "Longer loop (5+ min): +$70"
+        "Alternative variation/version (+50%) — Mood, genre, etc.",
+        "Stems delivery (+$40)"
       ],
       "rush": {
         "label": "If due in under 10 days",
         "fee": "+70% of final price"
       },
       "discount": {
-        "label": "",
-        "amount": 0,
+        "label": "Limited Offer",
+        "amount": 10,
         "type": "percent",
-        "active": false
-      }
+        "active": true
+      },
+      "details": [
+        "I specialize in creating background music in any genre you like. I specialize in light electronic music and cute, jazzy vibes."
+      ],
+      "pricing": [
+        "This package does not include a commercial license. If you want to upload it to Spotify, Apple Music, etc., the cost will be 100% more than the base price.",
+        "Anything longer than two minutes will incur an additional charge of 50% of the base price per minute."
+      ]
     }
   ],
   "tos": [
