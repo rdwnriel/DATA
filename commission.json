@@ -60,7 +60,7 @@
         "Additional Monetized Content Rights (YouTube/Twitch/TikTok, etc.) will cost +50% of base price."
       ],
       "slots": {
-        "current": 0,
+        "current": 1,
         "total": 1
       }
     },
